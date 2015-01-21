@@ -14,5 +14,16 @@
   "bugs": {
     "url": "https://github.com/aranja/tux/issues"
   },
-  "homepage": "http://tux.aranja.is"
+  "homepage": "http://tux.aranja.com",
+  "devDependencies": {
+    "browserify": "^5.0.0",
+    "gulp": "^3.8.6",
+    "gulp-connect": "^2.0.6",
+    "gulp-notify": "^1.4.0",
+    "vinyl-source-stream": "^0.1.1"
+  },
+  "dependencies": {
+    "tux-autohide": "~0.0.1",
+    "jquery": ">=1.11 <3"
+  }
 }
