@@ -1,6 +1,6 @@
-Tux
+TUX
 ===
-Tux is a set of components that are easy to use, create and maintain. Each component can be activated with data attributes, jQuery plugin or just plain javascript.
+TUX is a set of components for the web with focus on terrific UX. Each component can be activated with data attributes, jQuery plugin or just plain javascript.
 
 ## Quick start
 
@@ -9,10 +9,8 @@ Every component is self contained and can be installed through npm or bower.
 You can install all components with `npm install tux`.
 
 ## Components
-TODO: List all available components
 
-## Documentation
-TODO
+- [tux-autohide](https://github.com/aranja/tux-autohide): Auto hide fixed elements when scrolling.
 
 ## License
 Copyright (c) 2014 Aranja.
