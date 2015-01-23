@@ -1,5 +1,7 @@
 TUX
 ===
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aranja/tux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 TUX is a set of components for the web with focus on terrific UX. Each component can be activated with data attributes, jQuery plugin or just plain javascript.
 
 ## Quick start
