@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "tux-autohide": "~0.0.1",
+    "tux-autoscale": "~0.0.1",
     "jquery": ">=1.11 <3"
   }
 }

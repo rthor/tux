@@ -13,6 +13,7 @@ You can install all components with `npm install tux`.
 ## Components
 
 - [tux-autohide](https://github.com/aranja/tux-autohide): Auto hide fixed elements when scrolling.
+- [tux-autoscale](https://github.com/aranja/tux-autoscale): Autoscale element to fill a container.
 
 ## License
 Copyright (c) 2014 Aranja.
